@@ -41,7 +41,8 @@ Happy Shoping!!!!!!!!!
 ![success-login](https://user-images.githubusercontent.com/74039235/114307417-b6ded580-9b09-11eb-8195-66ebd5d1754c.jpg)
 
 ### `#Link Backend`
-github.com/abudzr/coffee-shop-backend
+<a>github.com/abudzr/coffee-shop-backend</a>
+
 
 ### `#Link Visit Project`
-bohdan-coffee-shop.netlify.app/
+<a>bohdan-coffee-shop.netlify.app/</a>
