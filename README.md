@@ -35,8 +35,8 @@ npm install
 ## Screenshot
 <p align="center">
   <span>
-    <img width="400" height="250" src="https://user-images.githubusercontent.com/68935056/119052765-4a4fd400-b9ef-11eb-9764-b6eb03a51ec7.PNG">   
-    <img width="400" height="250" src="https://user-images.githubusercontent.com/68935056/119112987-d6451880-ba4e-11eb-8a4c-a92f9a51e449.PNG">   
+    <img width="400" src="https://user-images.githubusercontent.com/68935056/119052765-4a4fd400-b9ef-11eb-9764-b6eb03a51ec7.PNG">   
+    <img width="400"  src="https://user-images.githubusercontent.com/68935056/119112987-d6451880-ba4e-11eb-8a4c-a92f9a51e449.PNG">   
     <img width="400" height="250" src="https://user-images.githubusercontent.com/68935056/119113570-6d11d500-ba4f-11eb-9f77-7d755542586c.PNG">
     <img width="400" height="250" src="https://user-images.githubusercontent.com/68935056/119113746-9c284680-ba4f-11eb-89df-8958d1eff322.PNG">
    <img width="400" height="250" src="https://user-images.githubusercontent.com/68935056/119114291-3be5d480-ba50-11eb-9941-8d2a4f730050.PNG">
