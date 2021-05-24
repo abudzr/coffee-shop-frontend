@@ -1,6 +1,13 @@
-# Bohdan Coffee Shop
+<p align="center">
+  <a href="" rel="noopener">
+ <img  src="https://user-images.githubusercontent.com/68935056/119311556-69728e00-bc9b-11eb-87f9-78b017409760.png" alt="logo"></a>
+</p>
 
-Bohdan Coffee adalah aplikasi layanan pesan makanan yang memberi keluasaan penuh kepada pelanggan untuk melakukan pemesanan menu di gadget masing-masing dengan pilihan pembayaran langsung yang terhubung ke aplikasi. Fitur premium untuk solusi cepat, efektif dan ekonomis.
+<h3 align="center">Frontend Coffee Shop - Arkademy</h3>
+
+---
+
+Coffee shop adalah aplikasi layanan pesan makanan yang memberi keluasaan penuh kepada pelanggan untuk melakukan pemesanan menu di gadget masing-masing dengan pilihan pembayaran langsung yang terhubung ke aplikasi. Fitur premium untuk solusi cepat, efektif dan ekonomis.
 
 
 ## Tentang Bohdan Developer
