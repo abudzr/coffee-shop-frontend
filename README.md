@@ -43,7 +43,7 @@ Coffee Shop is a food ordering service application that gives full flexibility t
 ## Prerequisites
 
 - [NodeJs](https://nodejs.org/en/download/)
-- [Backend Coffee Shop](https://github.com/chaerulmarwan20/coffee-shop-backend)
+- [Backend Coffee Shop](https://github.com/abudzr/coffee-shop-backend)
 
 ## Installation
 
